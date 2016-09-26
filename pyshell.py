@@ -6,7 +6,6 @@ import readline
 import sys
 import urllib.parse
 import urllib.request
-import urllib.parse
 
 from queue import Queue
 from threading import Thread
